@@ -9,8 +9,7 @@
   --carousel-height: 400px;
   --carousel-width: 1000px;
   --carousel-item-height: 100px;
-  --carousel-item-width: 180px;
-  width: 50%;
+  --carousel-item-width: 160px;
 }
 
 .carousel-container {
