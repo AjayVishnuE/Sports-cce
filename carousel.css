@@ -7,7 +7,6 @@
 /* carousel styles */
 .carousel {
   --carousel-height: 400px;
-  --carousel-width: 1000px;
   --carousel-item-height: 100px;
   --carousel-item-width: 160px;
 }
@@ -17,7 +16,6 @@
   display: flex;
   min-height: var(--carousel-height);
   margin: 0 0;
-  max-width: var(--carousel-width);
   position: relative;
   
 }
